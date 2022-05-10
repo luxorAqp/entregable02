@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import useWeather from "../../hooks/useWeather";
 import "./Weather.css";
 const Weather = () => {
